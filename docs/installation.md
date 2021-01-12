@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Installation
-nav_order: 1
+nav_order: 2
 ---
 
-## Installation
+# Installation
 
 If you're just looking to use natural without your own node application,
 you can install via NPM like so:
