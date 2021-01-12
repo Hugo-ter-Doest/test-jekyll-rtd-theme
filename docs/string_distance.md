@@ -1,7 +1,7 @@
 ---
 layout: default
 title: String distance
-nav_order: 1
+nav_order: 4
 ---
 
 # String Distance
