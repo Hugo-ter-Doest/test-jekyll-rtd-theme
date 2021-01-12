@@ -44,7 +44,7 @@ sample.load('sample.json', MyElementClass, function(err, sample) {
 ```
 You have to pass the element class to the load method so that the right element objects can be created from the data.
 
-### Features and feature sets
+## Features and feature sets
 Features are functions that map elements to zero or one. Features are defined as follows:
 ```javascript
 var Feature = require('Feature');
