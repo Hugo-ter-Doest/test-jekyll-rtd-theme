@@ -4,7 +4,7 @@ title: String distance
 nav_order: 1
 ---
 
-## String Distance
+# String Distance
 
 Natural provides an implementation of three algorithms for calculating string distance: Hamming distance, Jaro-Winkler, Levenshtein distance, and Dice coefficient.
 
@@ -132,7 +132,7 @@ Output:
 0
 ```
 
-## Approximate String Matching
+# Approximate String Matching
 Currently matching is supported via the Levenshtein algorithm.
 
 ```javascript
