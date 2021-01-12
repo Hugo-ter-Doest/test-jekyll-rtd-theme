@@ -132,7 +132,7 @@ Output:
 0
 ```
 
-# Approximate String Matching
+## Approximate String Matching
 Currently matching is supported via the Levenshtein algorithm.
 
 ```javascript
