@@ -72,3 +72,7 @@ console.log("chainsaws".stem());
 For French an additional stemmer is added called Carry stemmer. This is a **Galileo Carry algorithm** based on http://www.otlet-institute.org/docs/Carry.pdf
 
 Note :bangbang:: The implementation descibed in the PDF differs with the one from [the official C++ implementation](http://www.otlet-institute.org/wikics/Building_GALILEI_Platform.html#toc-Section-3). This implementation follows the C++ implementation rules which solves some problems of the algorithm described in the article.
+
+## References
+
+* Carry stemmer is a contribution by Johan Maupetit.
