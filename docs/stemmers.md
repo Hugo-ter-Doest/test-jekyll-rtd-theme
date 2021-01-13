@@ -76,3 +76,4 @@ Note :bangbang:: The implementation descibed in the PDF differs with the one fro
 ## References
 
 * Carry stemmer is a contribution by Johan Maupetit.
+* PEGjs: Parser Generator for JavaScript, https://pegjs.org/
